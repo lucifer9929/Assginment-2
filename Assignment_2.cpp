@@ -1,3 +1,15 @@
+/*
+ Name = Digpal Singh Rathore
+ Branch = Computer Science 
+ Class = Second Year (Third  Sem.)
+ Subject = OOPS (Assignment 2)
+ Roll No. = 19/485
+*/
+
+
+
+
+
 // Question 2 To implement operator Overloading for (+) operation in matrix
 
 
