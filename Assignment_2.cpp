@@ -72,6 +72,6 @@ int main()
         m.display();  
         cout<<"\n Second Matrix : \n\n";
         n.display(); 
-        v = m + n;  
+        m + n;  
         return 0;
 }
