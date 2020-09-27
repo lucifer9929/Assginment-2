@@ -1,9 +1,9 @@
 /*
- Name = Digpal Singh Rathore
- Branch = Computer Science 
+ Name = Kaushal Singh
+ Branch = Computer Science
  Class = Second Year (Third  Sem.)
  Subject = OOPS (Assignment 2)
- Roll No. = 19/485
+ Roll No. = 19/500
 */
 
 
